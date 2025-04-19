@@ -1,4 +1,4 @@
-#  👋 Hi, I’m @Umama-aqeel
+#  👋 Hi, I’m @Umama Aqeel
 - 👀 I’m interested in Frontend Web Development and building responsive web applications.
   
 - 🌱 I’m currently learning MERN Stack at Saylani Mass IT Training Program.
