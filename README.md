@@ -1,10 +1,16 @@
-## 👋 Hi, I’m @Umama-aqeel
+#  👋 Hi, I’m @Umama-aqeel
 - 👀 I’m interested in Frontend Web Development and building responsive web applications.
+  
 - 🌱 I’m currently learning MERN Stack at Saylani Mass IT Training Program.
+  
 - 💞️ I’m looking to collaborate on frontend projects using HTML, CSS, JavaScript, and React.
+  
 - 📫 How to reach me: umamaaqeel74@gmail.com
+  
 - 😄 Pronouns: She/Her
+  
 - ⚡ Fun fact: I enjoy turning creative ideas into functional designs and love learning new tech skills!
+  
 ---
 
 ### 🛠️ Languages and Tools:
@@ -22,6 +28,11 @@
 <br><br>
 
 ---
+### 🤝 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umama-aqeel-28630a247)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umamaaqeel74@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Umama-aqeel55)
 <!---
 Umama-aqeel55/Umama-aqeel55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
