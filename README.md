@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Umama Aqeel
+# 👋 Hi, I’m Umama Aqeel
 
 - 👀 I’m interested in Full Stack Web Development, specifically with the MERN stack (MongoDB, Express, React, Node.js).
 - 🌱 I’m now working with the MERN stack and continuously improving my skills.
