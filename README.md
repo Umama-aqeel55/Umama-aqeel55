@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Umama Aqeel
 
-- 👀 I’m interested in Full Stack Web Development, specifically with the MERN stack (MongoDB, Express, React, Node.js).
+- 👀 I’m interested in Full Stack Web Development, specifically with the MERN stack (MongoDB, Express, React, Node.js)..
 - 🌱 I’m now working with the MERN stack and continuously improving my skills.
 - 💞️ I’m looking to collaborate on full-stack projects, using MongoDB, Express, React, Node.js, and other related technologies.
 - 📫 How to reach me: [umamaaqeel74@gmail.com](mailto:umamaaqeel74@gmail.com)
