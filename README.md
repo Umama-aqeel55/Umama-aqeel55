@@ -68,20 +68,16 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Umama-aqeel55&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0d9488&icon_color=2563EB&text_color=333333" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=Umama-aqeel55&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0d9488&text_color=333333" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Umama-aqeel55&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=2563EB&icon_color=0d9488&text_color=c9d1d9&ring_color=2563EB" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Umama-aqeel55&theme=react&hide_border=true&background=0D1117&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umama-aqeel55&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0d9488&text_color=333333" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umama-aqeel55&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=2563EB&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umama-aqeel55&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=0d9488&currStreakLabel=0d9488" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umama-aqeel55&theme=minimal&hide_border=true&bg_color=ffffff&color=0d9488&line=2563EB&point=111827" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umama-aqeel55&theme=react-dark&hide_border=true&bg_color=0d1117&color=2563EB&line=2563EB&point=F59E0B" alt="activity graph" />
 </p>
 
 ---
