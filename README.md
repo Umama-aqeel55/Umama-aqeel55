@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umama Aqee</h1>
+<h1 align="center">Hi 👋, I'm Umama Aqeel</h1>
 <h3 align="center">Full Stack MERN & AI-Focused Developer — Agentic Systems, Voice AI & Intelligent Automation</h3>
 
 <p align="center">
